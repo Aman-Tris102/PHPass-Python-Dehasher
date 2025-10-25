@@ -9,3 +9,8 @@ Warning and Ethics
 Highlights
 - Pure-Python implementation of portable phpass dehash
 - Candidate generation using `wordfreq` (no external wordlists required)
+
+
+# DEMO
+
+https://github.com/user-attachments/assets/839e022e-fbcc-4858-8547-9518cebff95a
